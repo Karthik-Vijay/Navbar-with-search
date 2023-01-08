@@ -7,8 +7,18 @@ https://getbootstrap.com/docs/5.0/components/navbar/
 # Run the code
 Clone the repository and open the html using a live server or any browser.
 
-<img width="1792" alt="Screenshot 2023-01-08 at 10 42 51 PM" src="https://user-images.githubusercontent.com/55907622/211209609-9fddb98a-c8be-4921-b9de-d1b74211fed5.png">
 
-<img width="320" alt="Screenshot 2023-01-08 at 10 43 25 PM" src="https://user-images.githubusercontent.com/55907622/211209611-cef5901a-8052-416d-a24e-0d9658e31128.png">
+## DESKTOP
 
-<img width="320" alt="Screenshot 2023-01-08 at 10 43 31 PM" src="https://user-images.githubusercontent.com/55907622/211209613-b2f5b5f3-92e5-4e3a-9d18-2dbd2c0a1ca7.png">
+<img width="1792" alt="Screenshot 2023-01-08 at 11 01 28 PM" src="https://user-images.githubusercontent.com/55907622/211210539-c83208a1-c7f2-4b2d-93e4-4def73625f8c.png">
+
+## MOBILE
+
+<img width="314" alt="Screenshot 2023-01-08 at 11 01 51 PM" src="https://user-images.githubusercontent.com/55907622/211210552-845fd592-6935-4d7a-9927-da35aceef6d4.png">
+
+
+<img width="314" alt="Screenshot 2023-01-08 at 11 01 56 PM" src="https://user-images.githubusercontent.com/55907622/211210566-67994ce4-7d0d-4264-ad64-2f550500063a.png">
+
+## TABLET
+
+<img width="449" alt="Screenshot 2023-01-08 at 11 02 33 PM" src="https://user-images.githubusercontent.com/55907622/211210562-06cddf01-4023-495f-abfa-e898f1112fc9.png">
